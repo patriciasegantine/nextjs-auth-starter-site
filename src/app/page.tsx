@@ -47,13 +47,14 @@ export default function Home() {
             >
               Try the live demo
             </button>
-            <button
-              type="button"
-              onClick={() => window.alert("The template repository is coming soon.")}
+            <a
+              href="https://github.com/patriciasegantine/nextjs-auth-starter-template"
+              target="_blank"
+              rel="noopener noreferrer"
               className="cursor-pointer rounded-full border border-black/15 bg-white px-6 py-3 text-sm font-semibold transition hover:border-black/35"
             >
               View repository
-            </button>
+            </a>
           </div>
         </div>
 
