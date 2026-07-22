@@ -15,7 +15,7 @@ export default function Home() {
     <main className="min-h-screen px-6 py-8 sm:px-10">
       <nav className="mx-auto flex max-w-6xl items-center justify-between">
         <Link href="/" className="flex items-center gap-2 font-semibold tracking-tight">
-          <Image src="/auth-starter-logo.png" alt="" width={28} height={28} priority />
+          <Image src="/auth-starter-logo.png" alt="" width={24} height={24} priority />
           <span>Auth Starter</span>
         </Link>
         <button

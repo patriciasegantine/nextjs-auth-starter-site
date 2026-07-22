@@ -3,6 +3,8 @@
 The public website for Auth Starter, a reusable authentication foundation for
 Next.js applications.
 
+![preview](./public/preview.png)
+
 ## Why this project exists
 
 I am always creating small products and experimenting with new ideas. The
@@ -77,3 +79,9 @@ This is currently an idea under exploration, not a committed release.
 ## License
 
 MIT
+
+---
+
+## Author
+
+Created by **Patricia Segantine** — Senior Frontend Engineer
