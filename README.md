@@ -85,3 +85,5 @@ MIT
 ## Author
 
 Created by **Patricia Segantine** — Senior Frontend Engineer
+
+[LinkedIn](https://linkedin.com/in/patriciasegantine) · [Portfolio](https://patriciasegantine.vercel.app/)
