@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .letter-a {
+      stroke: #171815;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .letter-a {
+        stroke: #f7f7f5;
+      }
+    }
+  </style>
+  <path
+    class="letter-a"
+    d="M8 57 32 7l24 50"
+    fill="none"
+    stroke-width="9"
+    stroke-linecap="square"
+    stroke-linejoin="miter"
+  />
+  <path
+    d="m17 42 11 11 19-21"
+    fill="none"
+    stroke="#8ef6c1"
+    stroke-width="7"
+    stroke-linecap="square"
+    stroke-linejoin="miter"
+  />
+</svg>
